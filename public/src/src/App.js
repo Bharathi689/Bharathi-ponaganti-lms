@@ -1,0 +1,26 @@
+import React, { useState, useEffect } from 'react';
+import { 
+  BookOpen, 
+  Users, 
+  BarChart3, 
+  Settings, 
+  Search, 
+  Bell, 
+  User, 
+  Play,
+  Clock,
+  Award,
+  ChevronRight,
+  Calendar,
+  FileText,
+  Video,
+  Download,
+  Star,
+  MessageSquare,
+  Menu,
+  X,
+  Home,
+  GraduationCap,
+  Target,
+  TrendingUp
+} from 'lucide-react';
